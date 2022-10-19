@@ -18,6 +18,3 @@ Estudante de tecnologias Full-Stack no Instituto Federal do Mato Grosso do Sul.
 <td>Em curso</td>
     </tr>
     </table>
-
-- Ensino Fundamental Completo
-- Técnico Integrado a Informática em curso
