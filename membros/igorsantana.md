@@ -6,8 +6,8 @@ Estudante de tecnologias Full-Stack no Instituto Federal do Mato Grosso do Sul.
 
 <table>
   <tr>
-<td>Formação</td>
-<td>Status</td>
+<td><strong>Formação</strong></td>
+<td><strong>Status</strong></td>
     </tr>
     <tr>
 <td>Ensino Fundamental</td>
