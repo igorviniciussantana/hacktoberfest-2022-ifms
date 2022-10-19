@@ -56,3 +56,7 @@ Estudante de tecnologias Full-Stack no Instituto Federal do Mato Grosso do Sul.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" width="52" alt="premierepro logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
 </div>
+
+# TIME
+
+![Banner](https://www.meutimao.com.br/_upload/wallpapers/corinthians_estrelado_sd_1024x768.jpg)
